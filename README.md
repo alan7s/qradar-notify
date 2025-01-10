@@ -19,7 +19,7 @@ Prerequisites
 
 *   **Python**: Version 3.6 or later.
     
-*  **Bibliotecas**: `requests`, `urllib3`.  
+*  **Libraries**: `requests`, `urllib3`.  
     
 *   **QRadar**: Active QRadar instance with API access.
     
@@ -100,7 +100,7 @@ Code Overview
 
 Notes
 -----
-*   You can install the script as a cron job, so it will run every 15 minute.
+*   You can install the script as a cron task so that it runs every 15 minutes.
 ```bash
 chmod 755 /opt/qradar/bin/qradarNotify.py
 crontab -e

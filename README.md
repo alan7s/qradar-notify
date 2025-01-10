@@ -1,6 +1,7 @@
 ### QRadar Notify
-
 This script is designed to integrate IBM QRadar with Slack by notifying Slack channels about offenses with a magnitude greater than 5. Notifications include the offense description, source, and a direct link to the offense details in QRadar.
+
+![Qradar Notify on Slack Channel](qradarNotify.png)
 
 Features
 --------
